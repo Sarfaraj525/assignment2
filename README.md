@@ -1,3 +1,5 @@
+"-- 5 questions answered with proper explanations, including examples."
+
 1. Explain the Primary Key and Foreign Key concepts in PostgreSQL.
 উত্তর:
 PostgreSQL একটি ওপেন সোর্স এবং অবজেক্ট-রিলেশনাল ডেটাবেস ম্যানেজমেন্ট সিস্টেম (ORDBMS)। এটি অনেক উন্নত ফিচার প্রদান করে যেমন ট্রানজ্যাকশন ম্যানেজমেন্ট, ভিউস, ট্রিগারস, স্টোরড প্রসিডিউরস, এবং কাস্টম ডেটা টাইপস। PostgreSQL ACID (Atomicity, Consistency, Isolation, Durability) কমপ্লায়েন্ট, যার মানে এটি খুব নির্ভরযোগ্য ও নিরাপদ ডেটা স্টোর করতে পারে।
